@@ -3,4 +3,12 @@ hello
 hey
 haha
 hehe
+<<<<<<< HEAD
+
+durga
+
 dp
+
+=======
+dp
+>>>>>>> b1
